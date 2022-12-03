@@ -1,0 +1,23 @@
+{"animes": [{
+    "id":1,
+    "title": "One Piece",
+    "yearOfRelease": 2001,
+    "genre":"adventure",
+    "IMDBRating":"9.1",
+    "UpcomingMangaAvailability": true
+   },
+  { "id":2,
+   "title": "One Piece",
+   "yearOfRelease": 2001,
+   "genre":"adventure",
+   "IMDBRating":"9.1",
+   "UpcomingMangaAvailability": true
+  },
+  { "id":3,
+  "title": "One Piece",
+  "yearOfRelease": 2001,
+  "genre":"adventure",
+  "IMDBRating":"9.1",
+  "UpcomingMangaAvailability": true
+ }
+   ]}
