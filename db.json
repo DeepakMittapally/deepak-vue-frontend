@@ -1,23 +1,37 @@
 {"animes": [{
     "id":1,
     "title": "One Piece",
-    "yearOfRelease": 2001,
+    "yearOfRelease": 1999,
     "genre":"adventure",
-    "IMDBRating":"9.1",
+    "IMDBRating":"8.9",
     "UpcomingMangaAvailability": true
    },
   { "id":2,
-   "title": "One Piece",
-   "yearOfRelease": 2001,
+   "title": "Naruto",
+   "yearOfRelease": 2002,
    "genre":"adventure",
-   "IMDBRating":"9.1",
+   "IMDBRating":"8.4",
    "UpcomingMangaAvailability": true
   },
   { "id":3,
-  "title": "One Piece",
-  "yearOfRelease": 2001,
-  "genre":"adventure",
-  "IMDBRating":"9.1",
-  "UpcomingMangaAvailability": true
- }
+  "title": "Death Note",
+  "yearOfRelease": 2006,
+  "genre":"Crime",
+  "IMDBRating":"9.0",
+  "UpcomingMangaAvailability": false
+ },
+ { "id":4,
+ "title": "Attack on Titan",
+ "yearOfRelease": 2013,
+ "genre":"action",
+ "IMDBRating":"9.0",
+ "UpcomingMangaAvailability": true
+},
+{ "id":5,
+"title": "One punch Man",
+"yearOfRelease": 2015,
+"genre":"comedy",
+"IMDBRating":"8.7",
+"UpcomingMangaAvailability": false
+}
    ]}

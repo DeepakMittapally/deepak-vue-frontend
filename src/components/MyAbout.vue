@@ -17,7 +17,8 @@ export default {
 <style scoped>
 div{
     text-align: center;
-    border: 5px solid #4C5270;
+    border: 5px solid black;
+    background-color: #f4a261;
     padding: 10px;
 }
 </style>

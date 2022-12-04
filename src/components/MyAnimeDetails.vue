@@ -27,8 +27,8 @@ export default {
 <style>
 .animedetails{
 
-    background-color: bisque;
-    border: 5px solid #4C5270;
+    background-color:#f4a261;
+    border: 5px solid black;
     padding: 1em;
     color: gray;
 }

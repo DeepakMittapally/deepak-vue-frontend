@@ -1,6 +1,6 @@
 <template>
 
-    <div :class="anime.UpcomingMangaAvailability ? 'Blue': 'red' ">
+    <div :class="anime.UpcomingMangaAvailability ? 'true': 'false' ">
         <h2>{{anime.title}}</h2>
         <div class = "A">
             <p>
@@ -34,17 +34,17 @@ h4{
 }
 
 div{
-    background-color: #E7F2F8;
+    background-color: #264653;
     color: black;
     padding: 1em;
 }
 
-.red{
-    background-color: #74BDCB !important;
+.true{
+    background-color: #2a9d8f !important;
 
 }
-.Blue{
-    background-color: #FFA384 !important;
+.false{
+    background-color: #e76f51 !important;
 }
 
 

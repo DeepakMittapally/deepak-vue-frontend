@@ -1,9 +1,9 @@
 <template>
  <div class="container">
-    <MyHeader titleName="Animes" 
-      details ="info about animes" />
+    <MyHeader titleName="BEST ANIMES" 
+      details ="Information about Animes and their manga availability" />
     <MyAnimeDetails :animes="animes"/>
-    <MyAbout About=" extra details about website"/>
+    <MyAbout About=" Extra details about other animes"/>
 
  </div>
 </template>
@@ -63,7 +63,7 @@ data(){
   border: 0.3em solid black;
   padding: 30px;
   border-radius: 5px;
-  background-color: #EFE7BC;
+  background-color:#e9c46a;
 }
 
 div{

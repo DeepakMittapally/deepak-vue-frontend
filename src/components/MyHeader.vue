@@ -18,11 +18,12 @@
     <style scoped>
     div{
         text-align: center;
-        border: 5px solid #4C5270;
+        border: 5px solid black;
         padding: 2px;
+        background-color: #264653;
     }
     h1{
-        color: #DB1F48;
+        color: black;
     }
     
     </style>
